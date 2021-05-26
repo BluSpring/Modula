@@ -1,0 +1,7 @@
+inputDevice: Primary Sound Driver
+outputDevice: Primary Sound Capture Driver
+virtualCableDevice: CABLE Input (VB-Audio Virtual Cable)
+
+bassTrebleLevel: 0.0
+pitchCentsLevel: 0.0
+preserveTempo: true
